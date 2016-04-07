@@ -1,0 +1,16 @@
+{
+  "name": "lambda-left-pad",
+  "version": "1.0.0",
+  "description": "> left-pad as a service",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "left-pad": "^1.0.1",
+    "micro": "^2.0.0",
+    "raw-body": "^2.1.6"
+  }
+}
